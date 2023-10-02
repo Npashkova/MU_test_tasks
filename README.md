@@ -4,11 +4,11 @@ Also, there are checks if email, url and date are valid.
 
 Data samples are stored in 'data' folder.
 
-1) task_1 analyzes playstore.jsonl
+1) task_1 analyzes playstore.jsonl.
 In this task we are generating files report.html and missing.html with file's data and list of missing values respectively.
 Documentation for this task file can be found here:
 https://42matters.com/docs/app-market-data/file-dump/android-app-details.
-2) task_2 analyzes downloads.json
+2) task_2 analyzes downloads.json.
 In this task we read json file and check if it contains null values in its structures.
 
 Please, install requirements.txt packages before running the scripts. 
